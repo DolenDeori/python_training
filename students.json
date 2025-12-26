@@ -2,6 +2,27 @@
     {
         "roll_no": "34",
         "name": "dolen",
-        "grade": "67"
+        "grade": "67",
+        "marks": {
+            "english": 89.0
+        },
+        "attendance": [],
+        "fees_paid": 0
+    },
+    {
+        "roll_no": "6925",
+        "name": "Deepak",
+        "grade": "A",
+        "marks": {},
+        "attendance": [],
+        "fees_paid": 0
+    },
+    {
+        "roll_no": "8493",
+        "name": "Koushik",
+        "grade": "A+",
+        "marks": {},
+        "attendance": [],
+        "fees_paid": 0
     }
 ]
